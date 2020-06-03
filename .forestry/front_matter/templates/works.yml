@@ -34,3 +34,7 @@ fields:
   type: datetime
   config:
     required: true
+- name: ddsfffsdf
+  type: image_gallery
+  config: {}
+  label: ddsfffsdf
